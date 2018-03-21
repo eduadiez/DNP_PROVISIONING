@@ -3,7 +3,7 @@ version: '3.4'
 services:
   dnp_provisioning:
     build: ./build
-    image: dnp_provisioning
+    image: dappnode/dnp_provisioning
     container_name: dnp_provisioning_dev
     volumes:
       - ./sample_files/VPN.mobileconfig:/usr/share/nginx/html/VPN.mobileconfig
