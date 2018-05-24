@@ -1,3 +1,6 @@
+DEPRECATED!!!
+
+
 # DNP_PROVISIONING
 
 Dappnode package responsible for providing a website to download de provisioning file of admin
